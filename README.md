@@ -1,1 +1,1 @@
-# kalkulator
+Aplikasi kalkulator sederhana ini dibuat menggunakan HTML, CSS, dan JavaScript. Fitur-fitur yang terdapat dalam aplikasi ini meliputi operasi matematika dasar seperti penjumlahan, pengurangan, perkalian, dan pembagian. Pengguna dapat memasukkan bilangan dan memilih operasi yang diinginkan melalui interface yang intuitif dan mudah digunakan. Hasil perhitungan akan ditampilkan secara real-time setelah pengguna menekan tombol 'Hitung'. Aplikasi ini cocok untuk pengguna yang membutuhkan alat bantu cepat dalam menyelesaikan operasi matematika dasar.
