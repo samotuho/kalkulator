@@ -14,7 +14,7 @@ body {
 .kalkulator {
   width: 300px;
   height: 360px;
-  background-color: #f0f0f0;
+  background-color: midnightblue;
   display: flex;
   justify-content: center;
   align-items: center;
